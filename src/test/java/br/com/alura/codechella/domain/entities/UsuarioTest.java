@@ -1,6 +1,7 @@
 package br.com.alura.codechella.domain.entities;
 
 import br.com.alura.codechella.domain.FabricaDeUsuario;
+import br.com.alura.codechella.domain.entities.usuario.Usuario;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
