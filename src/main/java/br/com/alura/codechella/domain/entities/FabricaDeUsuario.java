@@ -1,5 +1,6 @@
-package br.com.alura.codechella.domain;
+package br.com.alura.codechella.domain.entities;
 
+import br.com.alura.codechella.domain.Endereco;
 import br.com.alura.codechella.domain.entities.usuario.Usuario;
 
 import java.time.LocalDate;
